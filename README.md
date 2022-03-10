@@ -3,7 +3,7 @@
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
+This was a project for Horiseon a Search Engine optimization company that needed their HTML updated to be more semantically accessible 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 - What problem does it solve?
@@ -20,8 +20,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
+Open Html file in a browser to view the render output.
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
